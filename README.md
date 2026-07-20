@@ -8,9 +8,11 @@ This project detects road lanes, identifies nearby vehicles, estimates vehicle d
 
 ## 📸 Demo Output
 
-![Lane Detection Output](lanedetection.png)
+![Lane Detection Output](lanedetection1.png)
 
-![ADAS Telemetry Output](telemetry.png)
+### ADAS Telemetry & Safety System
+
+![Telemetry Output](telemetry.png)
 
 The output visualization includes:
 
